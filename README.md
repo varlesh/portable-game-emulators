@@ -1,3 +1,5 @@
 # portable-game-emulators
 
-Only extract & run
+Linux x86_64 collection emulators
+
+Download, extract & run
